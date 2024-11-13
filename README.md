@@ -51,16 +51,5 @@ Optional: **Storage & Authentication** can be set up with preferred services lik
 
 ---
 
-## 🚀 Getting Started
-
-1. **Prerequisites**: Install **Node.js** (v14+ recommended), **React Native CLI**, **Expo CLI**, **Java JDK**, and **MySQL**.
-2. **Clone & Install**:
-   ```bash
-   git clone https://github.com/yourusername/mobile-chat-application.git
-   cd mobile-chat-application
-   npm install
-
----
-
 ## 📬 Contact
 For questions or suggestions, reach out to us at [vihangaheshan37@gmail.com](mailto:vihangaheshan37@gmail.com). We’d love to hear from you!
