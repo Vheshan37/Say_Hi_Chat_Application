@@ -65,6 +65,7 @@ export default function App() {
                         </View>
                     </TouchableOpacity>
                 </View>
+                
             </View>
             <StatusBar backgroundColor={'#0A1421'} />
         </View>
